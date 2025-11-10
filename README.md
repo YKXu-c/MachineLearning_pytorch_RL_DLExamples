@@ -10,3 +10,8 @@ You can just use `conda env create -f pytorchgym.yml` to create the same env in 
 - [MountainCar](https://github.com/YKXu-c/ReinforcementExamples/blob/main/examples_gym_games/moutainCar.py)\
   This is a basic game. Code is form [肖智清Zhiqing Xiao](https://book.douban.com/subject/34478302/).
   In this game, we can learn how to define an agent(without policy reinforcement, just an equation), how to use render() to show the process of each step, the interaction between agent and env.
+
+## Pytorch and neural network
+- Note can be found in my website [Learn with rookie]([https://rust.oakk.space/](https://rust.oakk.space/article/29224ed4-ef88-80f1-9413-f86ee4e3344a)).
+  All code I wrote in this note can be found in the .ipynb files in this repositry.
+  
